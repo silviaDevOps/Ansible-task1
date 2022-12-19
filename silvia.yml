@@ -24,7 +24,7 @@
 
   - name: Unarchive a file that needs to be downloaded
     unarchive:
-      src: https://www.free-css.com/assets/files/free-css-templates/download/page280/medi.zip
+      src: https://www.free-css.com/assets/files/free-css-templates/download/page277/cads.zip
       dest: /tmp/
       remote_src: yes
       
